@@ -261,3 +261,12 @@ Healthcare_DLT_Pipeline_Project/
 ## Conclusion
 
 This Healthcare DLT Pipeline demonstrates a production-ready implementation of the medallion architecture with comprehensive data quality enforcement, real-time streaming capabilities, and multi-dimensional analytics. The pipeline provides a solid foundation for healthcare data processing with built-in observability and maintainability features.
+
+## Author
+
+**Aditya Shinde**  
+Data Engineer  
+Passionate about building scalable data pipelines
+
+---
+Last updated - January 2026
